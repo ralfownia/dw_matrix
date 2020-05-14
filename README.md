@@ -1,2 +1,3 @@
-# dw_matrix
-projekt transformacja
+# projekt transformacja
+
+tutaj będzie pięć dni projektu transformacja - część pierwsza
